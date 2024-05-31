@@ -20,7 +20,6 @@ def binary_search(arr, item, begin=0, end=None):
 print("Buscando elementos na lista usando o algoritimo Binary Search")
 # Usando o Bubble sort para ordenar a lista
 lista_ordenada = bubble_sort(lista)
-
 # Agora podemos buscar um elemento especifico na lista
 print("O elemento 16 está na posição",binary_search(lista_ordenada, 16))
 # Buscando um elemento que não está na lista
