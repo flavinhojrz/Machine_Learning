@@ -39,6 +39,3 @@ Here are some of the projects I've developed during my study:
 2. Project 2
 3. Project 3
 
-## Contact
-
-flavinhoj78@gmail.com
