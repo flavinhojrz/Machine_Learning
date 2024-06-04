@@ -16,7 +16,7 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
 
 3. **Data Manipulation and Analysis**
    - [ ] Use of libraries such as Pandas (Python)
-   - [ ] Data visualization with Matplotlib, Seaborn (Python)
+   - [X] Data visualization with Matplotlib, Seaborn (Python)
 
 4. **Machine Learning**
    - [X] Basic concepts of supervised and unsupervised learning
@@ -35,7 +35,7 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
 
 Here are some of the projects I've developed during my study:
 
-1. Project 1
+1. [Project 1](https://github.com/flavinhojrz/investigation_Netflix_movies)
 2. Project 2
 3. Project 3
 
