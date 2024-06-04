@@ -35,7 +35,7 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
 
 Here are some of the projects I've developed during my study:
 
-1. [Project 1](https://github.com/flavinhojrz/investigation_Netflix_movies)
+1. [Project 1](https://github.com/flavinhojrz/investigation_Netflix_movies) - Investigation Netflix movies
 2. Project 2
 3. Project 3
 
