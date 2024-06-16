@@ -11,11 +11,11 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
    - [ ] Inferential and Descriptive Statistics
 
 2. **Programming**
-   - [ ] Python for data analysis
+   - [X] Python for data analysis
    - [X] SQL for data manipulation
 
 3. **Data Manipulation and Analysis**
-   - [ ] Use of libraries such as Pandas (Python)
+   - [X] Use of libraries such as Pandas (Python)
    - [X] Data visualization with Matplotlib, Seaborn (Python)
 
 4. **Machine Learning**
@@ -36,6 +36,6 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
 Here are some of the projects I've developed during my study:
 
 1. [Project 1](https://github.com/flavinhojrz/investigation_Netflix_movies) - Investigation Netflix movies
-2. Project 2
+2. [Project 2](https://github.com/flavinhojrz/Gestao_de_produtos)
 3. Project 3
 
