@@ -37,5 +37,5 @@ Here are some of the projects I've developed during my study:
 
 1. [Project 1](https://github.com/flavinhojrz/investigation_Netflix_movies) - Investigation Netflix movies
 2. [Project 2](https://github.com/flavinhojrz/Gestao_de_produtos) - Data-Driven Product Management: Conducting a Market Analysis
-3. Project 3
+3. [Project 3](https://github.com/flavinhojrz/Rosalind_python) - Bioinformática com Rosalind
 
