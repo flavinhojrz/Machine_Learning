@@ -5,9 +5,9 @@ Hello! This repository is dedicated to my ongoing learning journey in the field 
 ## Study Topics
 
 1. **Mathematics and Statistics**
-   - [ ] Linear Algebra
+   - [X] Linear Algebra
    - [X] Calculus
-   - [ ] Probability
+   - [X] Probability
    - [ ] Inferential and Descriptive Statistics
 
 2. **Programming**
